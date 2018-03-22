@@ -61961,39 +61961,37 @@
     },
     {
         "genesis_id": "",
-        "system": "U.CASH",
+        "system": "XferMoney",
         "dependencies": [
-            "hybrid"
+            "Ethereum"
         ],
-        "icon": "ucash",
+        "icon": "",
         "token": {
-            "name": "ucash token",
-            "symbol": "XUC"
+            "name": "XFM",
+            "symbol": "XFM"
         },
         "consensus": {
-            "consensus_type": "",
-            "consensus_name": ""
+            "consensus_type": "Proof-of-Work",
+            "consensus_name": "Proof-of-Work"
         },
         "descriptions": {
             "state": "Project",
             "system_type": "cryptoasset",
-            "headline": "Combining cash with digital currencies through retail locations"
+            "headline": "Peer-To-Peer remittance platform"
         },
         "crowdsales": {
-            "start_date": "2017-09-08T00:00:00",
-            "end_date": "2017-11-08T00:00:00",
-            "end_date_plan": "2017-11-08T00:00:00",
+            "start_date": "2018-02-16T00:00:00.000Z",
+            "end_date": "2018-03-31T00:00:00.000Z",
+            "end_date_plan": "2018-03-31T00:00:00.000Z",
             "genesis_address": [
                 ""
             ],
-            "funding_terms": "https://u.cash/ibo.html",
-            "funding_url": "https://u.cash",
-            "tokens_sold": "",
-            "tokens_issued": 21000000000,
+            "funding_term": "https://xfermoney.io/documents/XferMoney_Whitepaper_1.0.pdf",
+            "funding_url": "https://xfermoney.io/tokensale/",
+            "tokens_sold": 0,
+            "tokens_issued": "250000000",
             "btc_raised": "",
-            "cap_limit": [
-                ""
-            ],
+            "cap_limit": [],
             "raised": [
                 ""
             ]
@@ -62001,26 +61999,49 @@
         "links": [
             {
                 "type": "website",
-                "name": "u.cash",
-                "url": "https://u.cash/",
+                "name": "Website",
+                "url": "https://xfermoney.io/",
                 "tags": [
                     "Main"
                 ]
             },
             {
                 "type": "paper",
-                "name": "U.CASH Whitepaper",
-                "url": "https://docs.google.com/document/d/1Lvh4SEvGVHQ0Opj8wKmytMe63PxpXFgZNgIGbpIi22M/edit",
+                "name": "Paper",
+                "url": "https://xfermoney.io/wp-content/uploads/2017/12/XferMoney_Whitepaper_1.0.pdf",
                 "tags": [
                     "Main",
                     "Science"
                 ]
             },
             {
+                "type": "facebook",
+                "name": "Facebook",
+                "url": "https://www.facebook.com/Xfermoney-136308600385196",
+                "tags": [
+                    "News"
+                ]
+            },
+            {
                 "type": "twitter",
                 "name": "Twitter",
-                "url": "https://twitter.com/udotcash",
-                "icon": "twitter.png",
+                "url": "https://twitter.com/XferMoney",
+                "tags": [
+                    "News"
+                ]
+            },
+            {
+                "type": "telegram",
+                "name": "Telegram",
+                "url": "https://t.me/xfermoney",
+                "tags": [
+                    "News"
+                ]
+            },
+            {
+                "type": "bitcointalk",
+                "name": "Bitcointalk",
+                "url": "https://bitcointalk.org/index.php?action=profile;u=1537294",
                 "tags": [
                     "News"
                 ]
@@ -62028,26 +62049,7 @@
             {
                 "type": "reddit",
                 "name": "Reddit",
-                "url": "https://www.reddit.com/r/ucash/",
-                "icon": "reddit.png",
-                "tags": [
-                    "News"
-                ]
-            },
-            {
-                "type": "custom",
-                "name": "Facebook",
-                "url": "https://www.facebook.com/udotcash",
-                "icon": "facebook.png",
-                "tags": [
-                    "News"
-                ]
-            },
-            {
-                "type": "custom",
-                "name": "YouTube",
-                "url": "https://www.youtube.com/channel/UCA125wWsdbsG1XPenWcBkyg",
-                "icon": "youtube.png",
+                "url": "https://www.reddit.com/user/xfermoney",
                 "tags": [
                     "News"
                 ]
